@@ -290,7 +290,12 @@ body.so-vantage-mobile-device .main-navigation li:hover > ul {
   height: 75px;
   margin: 10px 0px 0px 0px;
   background-color: #dbdbdb;
-  border: 7px solid #e5e5e5;
 
 }
-
+.customNewMaterials{
+  background-image: url("http://www.jack-mulvey-scott.com/TEST/Lwallstreet/wp-content/uploads/2017/06/Adobe-Spark11.png");
+  background-repeat: no-repeat;
+  padding-left: 12%;
+  background-color: #dbdbdb;
+  border: 7px solid #e5e5e5;
+}
